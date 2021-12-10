@@ -4,33 +4,33 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Dec 2021 15:00:14 GMT
+// Generated on Fri, 10 Dec 2021 23:12:14 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorColorBlue,
-ColorColorDanger,
-ColorColorDangerRgb,
-ColorColorBlueMid,
-ColorColorPaleblue,
-ColorColorGreen,
-ColorColorBlack,
-ColorColorPurple,
-ColorColorYellow,
-ColorColorBackgroundButtonSecondaryEnabled,
-ColorColorBackgroundButtonSecondaryDisabled,
-ColorColorBackgroundButtonPrimaryEnabled,
-ColorColorBackgroundButtonPrimaryDisabled,
-ColorColorForegroundButtonPrimaryEnabled,
-ColorColorForegroundButtonPrimaryDisabled,
-ColorColorForegroundButtonSecondaryEnabled,
-ColorColorForegroundButtonSecondaryDisabled,
-ColorColorForegroundDropdownPlaceholderEnabled,
-ColorColorForegroundInputLabel,
-ColorColorForegroundInputPlaceholderActive,
-ColorColorBorderDropdownActive
+ColorBlue,
+ColorDanger,
+ColorDangerRgb,
+ColorBlueMid,
+ColorPaleblue,
+ColorGreen,
+ColorBlack,
+ColorPurple,
+ColorYellow,
+ColorBackgroundButtonSecondaryEnabled,
+ColorBackgroundButtonSecondaryDisabled,
+ColorBackgroundButtonPrimaryEnabled,
+ColorBackgroundButtonPrimaryDisabled,
+ColorForegroundButtonPrimaryEnabled,
+ColorForegroundButtonPrimaryDisabled,
+ColorForegroundButtonSecondaryEnabled,
+ColorForegroundButtonSecondaryDisabled,
+ColorForegroundDropdownPlaceholderEnabled,
+ColorForegroundInputLabel,
+ColorForegroundInputPlaceholderActive,
+ColorBorderDropdownActive
 };
 
 @interface StyleDictionaryColor : NSObject
