@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 10 Dec 2021 23:12:14 GMT
+// Generated on Fri, 10 Dec 2021 23:16:10 GMT
 
 
 import UIKit
@@ -30,5 +30,5 @@ public enum StyleDictionaryColor {
     public static let green = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1) /* it's green */
     public static let paleblue = UIColor(red: 0.620, green: 0.820, blue: 1.000, alpha: 1)
     public static let purple = UIColor(red: 0.667, green: 0.133, blue: 1.000, alpha: 1)
-    public static let yellow = UIColor(red: 0.612, green: 0.478, blue: 0.012, alpha: 1)
+    public static let yellow = UIColor(red: 0.996, green: 1.000, blue: 0.776, alpha: 1)
 }

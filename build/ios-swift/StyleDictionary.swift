@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 10 Dec 2021 23:12:14 GMT
+// Generated on Fri, 10 Dec 2021 23:16:10 GMT
 
 
 import UIKit
@@ -30,7 +30,7 @@ public class StyleDictionary {
     public static let colorGreen = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1) /* it's green */
     public static let colorPaleblue = UIColor(red: 0.620, green: 0.820, blue: 1.000, alpha: 1)
     public static let colorPurple = UIColor(red: 0.667, green: 0.133, blue: 1.000, alpha: 1)
-    public static let colorYellow = UIColor(red: 0.612, green: 0.478, blue: 0.012, alpha: 1)
+    public static let colorYellow = UIColor(red: 0.996, green: 1.000, blue: 0.776, alpha: 1)
     public static let fontBodyParagraphMediumFontFamily = "Roboto"
     public static let fontBodyParagraphMediumFontSize = "14"
     public static let fontBodyParagraphMediumFontStretch = "normal"
