@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 18:41:29 GMT
+// Generated on Sat, 11 Dec 2021 18:47:22 GMT
 
 
 import UIKit
@@ -55,16 +55,16 @@ public class StyleDictionary {
     public static let fontHeadingH1TextCase = "none"
     public static let fontHeadingH1TextDecoration = "none"
     public static let fontHeadingH2FontFamily = "Roboto"
-    public static let fontHeadingH2FontSize = "60"
+    public static let fontHeadingH2FontSize = "58"
     public static let fontHeadingH2FontStretch = "normal"
     public static let fontHeadingH2FontStyle = "normal"
-    public static let fontHeadingH2FontStyleOld = "Regular"
-    public static let fontHeadingH2FontWeight = "400"
+    public static let fontHeadingH2FontStyleOld = "Bold"
+    public static let fontHeadingH2FontWeight = "700"
     public static let fontHeadingH2LetterSpacing = "-0.5"
     public static let fontHeadingH2LineHeight = "normal"
     public static let fontHeadingH2ParagraphIndent = "0"
     public static let fontHeadingH2ParagraphSpacing = "0"
-    public static let fontHeadingH2TextCase = "none"
+    public static let fontHeadingH2TextCase = "uppercase"
     public static let fontHeadingH2TextDecoration = "none"
     public static let fontHeadingH3FontFamily = "Roboto"
     public static let fontHeadingH3FontSize = "48"

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 18:41:29 GMT
+// Generated on Sat, 11 Dec 2021 18:47:22 GMT
 
 
 import UIKit
@@ -20,8 +20,8 @@ public enum StyleDictionarySize {
     public static let headingH1LetterSpacing = "-0.5"
     public static let headingH1ParagraphIndent = "0"
     public static let headingH1ParagraphSpacing = "0"
-    public static let headingH2FontSize = "60"
-    public static let headingH2FontWeight = "400"
+    public static let headingH2FontSize = "58"
+    public static let headingH2FontWeight = "700"
     public static let headingH2LetterSpacing = "-0.5"
     public static let headingH2ParagraphIndent = "0"
     public static let headingH2ParagraphSpacing = "0"
