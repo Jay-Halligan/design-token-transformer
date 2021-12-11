@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 19:09:41 GMT
+// Generated on Sat, 11 Dec 2021 19:12:12 GMT
 
 
 import UIKit
@@ -59,8 +59,8 @@ public class StyleDictionary {
     public static let fontHeadingH2FontSize = "52"
     public static let fontHeadingH2FontStretch = "normal"
     public static let fontHeadingH2FontStyle = "normal"
-    public static let fontHeadingH2FontStyleOld = "Bold"
-    public static let fontHeadingH2FontWeight = "700"
+    public static let fontHeadingH2FontStyleOld = "Regular"
+    public static let fontHeadingH2FontWeight = "400"
     public static let fontHeadingH2LetterSpacing = "-0.5"
     public static let fontHeadingH2LineHeight = "normal"
     public static let fontHeadingH2ParagraphIndent = "0"

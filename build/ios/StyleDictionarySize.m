@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 19:09:41 GMT
+// Generated on Sat, 11 Dec 2021 19:12:12 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -21,7 +21,7 @@ float const FontHeadingH3LetterSpacing = @"0";
 float const FontHeadingH3ParagraphIndent = @"0";
 float const FontHeadingH3ParagraphSpacing = @"0";
 float const FontHeadingH2FontSize = @"52";
-float const FontHeadingH2FontWeight = @"700";
+float const FontHeadingH2FontWeight = @"400";
 float const FontHeadingH2LetterSpacing = @"-0.5";
 float const FontHeadingH2ParagraphIndent = @"0";
 float const FontHeadingH2ParagraphSpacing = @"0";
