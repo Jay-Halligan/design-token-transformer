@@ -4,32 +4,31 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 10 Dec 2021 23:16:10 GMT
+// Generated on Sat, 11 Dec 2021 18:15:24 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorBlue,
-ColorDanger,
-ColorDangerRgb,
-ColorBlueMid,
-ColorPaleblue,
-ColorGreen,
 ColorBlack,
-ColorPurple,
-ColorYellow,
+ColorPrimary,
+ColorSecondary,
+ColorPrimaryLight,
+ColorPrimaryDark,
+ColorSecondaryDark,
+ColorSecondaryLight,
 ColorBackgroundButtonSecondaryEnabled,
 ColorBackgroundButtonSecondaryDisabled,
 ColorBackgroundButtonPrimaryEnabled,
 ColorBackgroundButtonPrimaryDisabled,
-ColorForegroundButtonPrimaryEnabled,
-ColorForegroundButtonPrimaryDisabled,
-ColorForegroundButtonSecondaryEnabled,
-ColorForegroundButtonSecondaryDisabled,
-ColorForegroundDropdownPlaceholderEnabled,
-ColorForegroundInputLabel,
-ColorForegroundInputPlaceholderActive,
+ColorFontButtonPrimaryEnabled,
+ColorFontButtonPrimaryDisabled,
+ColorFontButtonSecondaryEnabled,
+ColorFontButtonSecondaryDisabled,
+ColorFontDropdownPlaceholderEnabled,
+ColorFontInputLabel,
+ColorFontInputPlaceholderActive,
+ColorFontBodyDefault,
 ColorBorderDropdownActive
 };
 
