@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 18:15:24 GMT
+// Generated on Sat, 11 Dec 2021 18:25:42 GMT
 
 
 import UIKit
@@ -54,6 +54,18 @@ public class StyleDictionary {
     public static let fontFontHeadingH1ParagraphSpacing = "0"
     public static let fontFontHeadingH1TextCase = "none"
     public static let fontFontHeadingH1TextDecoration = "none"
+    public static let fontFontHeadingH2FontFamily = "Lato"
+    public static let fontFontHeadingH2FontSize = "60"
+    public static let fontFontHeadingH2FontStretch = "normal"
+    public static let fontFontHeadingH2FontStyle = "normal"
+    public static let fontFontHeadingH2FontStyleOld = "Regular"
+    public static let fontFontHeadingH2FontWeight = "400"
+    public static let fontFontHeadingH2LetterSpacing = "-0.5"
+    public static let fontFontHeadingH2LineHeight = "normal"
+    public static let fontFontHeadingH2ParagraphIndent = "0"
+    public static let fontFontHeadingH2ParagraphSpacing = "0"
+    public static let fontFontHeadingH2TextCase = "none"
+    public static let fontFontHeadingH2TextDecoration = "none"
     public static let fontFontHeadingH3FontFamily = "Roboto"
     public static let fontFontHeadingH3FontSize = "48"
     public static let fontFontHeadingH3FontStretch = "normal"
@@ -66,4 +78,16 @@ public class StyleDictionary {
     public static let fontFontHeadingH3ParagraphSpacing = "0"
     public static let fontFontHeadingH3TextCase = "none"
     public static let fontFontHeadingH3TextDecoration = "none"
+    public static let fontFontHeadingH4FontFamily = "Lato"
+    public static let fontFontHeadingH4FontSize = "34"
+    public static let fontFontHeadingH4FontStretch = "normal"
+    public static let fontFontHeadingH4FontStyle = "normal"
+    public static let fontFontHeadingH4FontStyleOld = "Bold"
+    public static let fontFontHeadingH4FontWeight = "700"
+    public static let fontFontHeadingH4LetterSpacing = "0"
+    public static let fontFontHeadingH4LineHeight = "normal"
+    public static let fontFontHeadingH4ParagraphIndent = "0"
+    public static let fontFontHeadingH4ParagraphSpacing = "0"
+    public static let fontFontHeadingH4TextCase = "none"
+    public static let fontFontHeadingH4TextDecoration = "none"
 }
