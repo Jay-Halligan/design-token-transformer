@@ -6,6 +6,7 @@
   "ColorPrimaryDark": "#ae1000",
   "ColorSecondaryDark": "#192d73",
   "ColorSecondaryLight": "#7f81d4",
+  "ColorFontHeadingH3": "#192d73",
   "ColorBackgroundButtonSecondaryEnabled": "#4e55a2",
   "ColorBackgroundButtonSecondaryDisabled": "#bdbdbd",
   "ColorBackgroundButtonPrimaryEnabled": "#e84d1b",
