@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 19:12:12 GMT
+// Generated on Sat, 11 Dec 2021 19:13:13 GMT
 
 
 import UIKit
@@ -22,7 +22,7 @@ public class StyleDictionary {
     public static let colorFontButtonSecondaryDisabled = UIColor(red: 0.290, green: 0.290, blue: 0.286, alpha: 1)
     public static let colorFontButtonSecondaryEnabled = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorFontDropdownPlaceholderEnabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
-    public static let colorFontHeadingH3 = UIColor(red: 0.098, green: 0.176, blue: 0.451, alpha: 1)
+    public static let colorFontHeadingH2 = UIColor(red: 0.098, green: 0.176, blue: 0.451, alpha: 1)
     public static let colorFontInputLabel = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontInputPlaceholderActive = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let colorPrimary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)

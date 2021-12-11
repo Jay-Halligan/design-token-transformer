@@ -6,7 +6,6 @@
   --color-primary-dark: #ae1000;
   --color-secondary-dark: #192d73;
   --color-secondary-light: #7f81d4;
-  --color-font-heading-h3: #192d73;
   --color-background-button-secondary-enabled: #4e55a2;
   --color-background-button-secondary-disabled: #bdbdbd;
   --color-background-button-primary-enabled: #e84d1b;
@@ -19,6 +18,7 @@
   --color-font-input-label: #000000;
   --color-font-input-placeholder-active: #bdbdbd;
   --color-font-body-default: #5f6368;
+  --color-font-heading-h2: #192d73;
   --color-border-dropdown-active: #bdbdbd;
   --font-heading-h1-font-size: 64px;
   --font-heading-h1-text-decoration: none;

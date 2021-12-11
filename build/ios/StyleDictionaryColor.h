@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 19:12:12 GMT
+// Generated on Sat, 11 Dec 2021 19:13:13 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -17,7 +17,6 @@ ColorPrimaryLight,
 ColorPrimaryDark,
 ColorSecondaryDark,
 ColorSecondaryLight,
-ColorFontHeadingH3,
 ColorBackgroundButtonSecondaryEnabled,
 ColorBackgroundButtonSecondaryDisabled,
 ColorBackgroundButtonPrimaryEnabled,
@@ -30,6 +29,7 @@ ColorFontDropdownPlaceholderEnabled,
 ColorFontInputLabel,
 ColorFontInputPlaceholderActive,
 ColorFontBodyDefault,
+ColorFontHeadingH2,
 ColorBorderDropdownActive
 };
 
