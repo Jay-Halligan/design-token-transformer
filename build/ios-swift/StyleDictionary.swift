@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 19:13:13 GMT
+// Generated on Sun, 12 Dec 2021 20:55:21 GMT
 
 
 import UIKit
@@ -14,6 +14,10 @@ public class StyleDictionary {
     public static let colorBackgroundButtonPrimaryEnabled = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let colorBackgroundButtonSecondaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let colorBackgroundButtonSecondaryEnabled = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
+    public static let colorBackgroundNavbarButton = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
+    public static let colorBackgroundNavbarSelecteditem = UIColor(red: 0.773, green: 0.773, blue: 0.773, alpha: 1)
+    public static let colorBackgroundTopBannerPrimary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
+    public static let colorBackgroundTopNavbarPrimary = UIColor(red: 1.000, green: 0.498, blue: 0.286, alpha: 1)
     public static let colorBlack = UIColor(red: 0.004, green: 0.004, blue: 0.004, alpha: 1)
     public static let colorBorderDropdownActive = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let colorFontBodyDefault = UIColor(red: 0.373, green: 0.388, blue: 0.408, alpha: 1)
@@ -25,12 +29,16 @@ public class StyleDictionary {
     public static let colorFontHeadingH2 = UIColor(red: 0.098, green: 0.176, blue: 0.451, alpha: 1)
     public static let colorFontInputLabel = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontInputPlaceholderActive = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
+    public static let colorFontNavbarText = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
+    public static let colorForegroundNavbarButton = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
+    public static let colorForegroundNavbarSelecteditem = UIColor(red: 0.373, green: 0.388, blue: 0.408, alpha: 1)
     public static let colorPrimary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let colorPrimaryDark = UIColor(red: 0.682, green: 0.063, blue: 0.000, alpha: 1)
     public static let colorPrimaryLight = UIColor(red: 1.000, green: 0.498, blue: 0.286, alpha: 1)
     public static let colorSecondary = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
     public static let colorSecondaryDark = UIColor(red: 0.098, green: 0.176, blue: 0.451, alpha: 1)
     public static let colorSecondaryLight = UIColor(red: 0.498, green: 0.506, blue: 0.831, alpha: 1)
+    public static let colorWhite = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
     public static let fontBodyParagraphMediumFontFamily = "Roboto"
     public static let fontBodyParagraphMediumFontSize = "14"
     public static let fontBodyParagraphMediumFontStretch = "normal"

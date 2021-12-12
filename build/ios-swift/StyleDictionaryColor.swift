@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Dec 2021 19:13:13 GMT
+// Generated on Sun, 12 Dec 2021 20:55:21 GMT
 
 
 import UIKit
@@ -14,6 +14,10 @@ public enum StyleDictionaryColor {
     public static let backgroundButtonPrimaryEnabled = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let backgroundButtonSecondaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let backgroundButtonSecondaryEnabled = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
+    public static let backgroundNavbarButton = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
+    public static let backgroundNavbarSelecteditem = UIColor(red: 0.773, green: 0.773, blue: 0.773, alpha: 1)
+    public static let backgroundTopBannerPrimary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
+    public static let backgroundTopNavbarPrimary = UIColor(red: 1.000, green: 0.498, blue: 0.286, alpha: 1)
     public static let black = UIColor(red: 0.004, green: 0.004, blue: 0.004, alpha: 1)
     public static let borderDropdownActive = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let fontBodyDefault = UIColor(red: 0.373, green: 0.388, blue: 0.408, alpha: 1)
@@ -25,10 +29,14 @@ public enum StyleDictionaryColor {
     public static let fontHeadingH2 = UIColor(red: 0.098, green: 0.176, blue: 0.451, alpha: 1)
     public static let fontInputLabel = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let fontInputPlaceholderActive = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
+    public static let fontNavbarText = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
+    public static let foregroundNavbarButton = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
+    public static let foregroundNavbarSelecteditem = UIColor(red: 0.373, green: 0.388, blue: 0.408, alpha: 1)
     public static let primary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let primaryDark = UIColor(red: 0.682, green: 0.063, blue: 0.000, alpha: 1)
     public static let primaryLight = UIColor(red: 1.000, green: 0.498, blue: 0.286, alpha: 1)
     public static let secondary = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
     public static let secondaryDark = UIColor(red: 0.098, green: 0.176, blue: 0.451, alpha: 1)
     public static let secondaryLight = UIColor(red: 0.498, green: 0.506, blue: 0.831, alpha: 1)
+    public static let white = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
 }
