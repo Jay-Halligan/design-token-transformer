@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 12 Dec 2021 20:55:21 GMT
+// Generated on Sun, 12 Dec 2021 21:19:27 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -35,3 +35,28 @@ float const FontBodyParagraphMediumFontWeight = @"400";
 float const FontBodyParagraphMediumLetterSpacing = @"0";
 float const FontBodyParagraphMediumParagraphIndent = @"0";
 float const FontBodyParagraphMediumParagraphSpacing = @"0";
+float const FontPanelBodyFontSize = @"16";
+float const FontPanelBodyFontWeight = @"400";
+float const FontPanelBodyLetterSpacing = @"0";
+float const FontPanelBodyParagraphIndent = @"0";
+float const FontPanelBodyParagraphSpacing = @"0";
+float const FontPanelBodyHeadingFontSize = @"14";
+float const FontPanelBodyHeadingFontWeight = @"400";
+float const FontPanelBodyHeadingLetterSpacing = @"0";
+float const FontPanelBodyHeadingParagraphIndent = @"0";
+float const FontPanelBodyHeadingParagraphSpacing = @"0";
+float const FontPanelHeaderTitleFontSize = @"52";
+float const FontPanelHeaderTitleFontWeight = @"400";
+float const FontPanelHeaderTitleLetterSpacing = @"-0.5";
+float const FontPanelHeaderTitleParagraphIndent = @"0";
+float const FontPanelHeaderTitleParagraphSpacing = @"0";
+float const FontPanelFooterLinkFontSize = @"14";
+float const FontPanelFooterLinkFontWeight = @"400";
+float const FontPanelFooterLinkLetterSpacing = @"0";
+float const FontPanelFooterLinkParagraphIndent = @"0";
+float const FontPanelFooterLinkParagraphSpacing = @"0";
+float const FontPolicyinformationMediumFontSize = @"26";
+float const FontPolicyinformationMediumFontWeight = @"700";
+float const FontPolicyinformationMediumLetterSpacing = @"0";
+float const FontPolicyinformationMediumParagraphIndent = @"0";
+float const FontPolicyinformationMediumParagraphSpacing = @"0";

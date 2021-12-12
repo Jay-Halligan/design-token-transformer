@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 12 Dec 2021 20:55:21 GMT
+// Generated on Sun, 12 Dec 2021 21:19:27 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -34,3 +34,28 @@ extern float const FontBodyParagraphMediumFontWeight;
 extern float const FontBodyParagraphMediumLetterSpacing;
 extern float const FontBodyParagraphMediumParagraphIndent;
 extern float const FontBodyParagraphMediumParagraphSpacing;
+extern float const FontPanelBodyFontSize;
+extern float const FontPanelBodyFontWeight;
+extern float const FontPanelBodyLetterSpacing;
+extern float const FontPanelBodyParagraphIndent;
+extern float const FontPanelBodyParagraphSpacing;
+extern float const FontPanelBodyHeadingFontSize;
+extern float const FontPanelBodyHeadingFontWeight;
+extern float const FontPanelBodyHeadingLetterSpacing;
+extern float const FontPanelBodyHeadingParagraphIndent;
+extern float const FontPanelBodyHeadingParagraphSpacing;
+extern float const FontPanelHeaderTitleFontSize;
+extern float const FontPanelHeaderTitleFontWeight;
+extern float const FontPanelHeaderTitleLetterSpacing;
+extern float const FontPanelHeaderTitleParagraphIndent;
+extern float const FontPanelHeaderTitleParagraphSpacing;
+extern float const FontPanelFooterLinkFontSize;
+extern float const FontPanelFooterLinkFontWeight;
+extern float const FontPanelFooterLinkLetterSpacing;
+extern float const FontPanelFooterLinkParagraphIndent;
+extern float const FontPanelFooterLinkParagraphSpacing;
+extern float const FontPolicyinformationMediumFontSize;
+extern float const FontPolicyinformationMediumFontWeight;
+extern float const FontPolicyinformationMediumLetterSpacing;
+extern float const FontPolicyinformationMediumParagraphIndent;
+extern float const FontPolicyinformationMediumParagraphSpacing;

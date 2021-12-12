@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 12 Dec 2021 20:55:21 GMT
+// Generated on Sun, 12 Dec 2021 21:19:27 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -18,6 +18,7 @@ ColorPrimaryDark,
 ColorSecondaryDark,
 ColorSecondaryLight,
 ColorWhite,
+ColorBackgroundPageFooter,
 ColorBackgroundButtonSecondaryEnabled,
 ColorBackgroundButtonSecondaryDisabled,
 ColorBackgroundButtonPrimaryEnabled,
@@ -26,6 +27,7 @@ ColorBackgroundTopBannerPrimary,
 ColorBackgroundTopNavbarPrimary,
 ColorBackgroundNavbarSelecteditem,
 ColorBackgroundNavbarButton,
+ColorBackgroundPolicyinformationBox,
 ColorFontButtonPrimaryEnabled,
 ColorFontButtonPrimaryDisabled,
 ColorFontButtonSecondaryEnabled,
@@ -35,10 +37,17 @@ ColorFontInputLabel,
 ColorFontInputPlaceholderActive,
 ColorFontBodyDefault,
 ColorFontHeadingH2,
+ColorFontHeadingDefault,
 ColorFontNavbarText,
+ColorFontNavbarSelecteditem,
+ColorFontNavbarButton,
+ColorFontPanelBody,
+ColorFontGlobalLink,
+ColorFontPageFooter,
+ColorFontPolicyinformationBox,
 ColorBorderDropdownActive,
-ColorForegroundNavbarSelecteditem,
-ColorForegroundNavbarButton
+ColorPanelDivider,
+ColorPanelBodyHeading
 };
 
 @interface StyleDictionaryColor : NSObject
