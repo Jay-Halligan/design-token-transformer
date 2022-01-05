@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 12:00:50 GMT
+// Generated on Wed, 05 Jan 2022 12:36:14 GMT
 
 
 import UIKit
@@ -168,4 +168,48 @@ public class StyleDictionary {
     public static let fontPolicyinformationMediumParagraphSpacing = "0"
     public static let fontPolicyinformationMediumTextCase = "none"
     public static let fontPolicyinformationMediumTextDecoration = "none"
+    public static let globalBackgroundButtonPrimaryDisabled = #bdbdbd
+    public static let globalBackgroundButtonPrimaryEnabled = #e84d1b
+    public static let globalBackgroundButtonSecondaryDisabled = #bdbdbd
+    public static let globalBackgroundButtonSecondaryEnabled = #4e55a2
+    public static let globalBlack = #010101
+    public static let globalBodyParagraphMedium = [object Object]
+    public static let globalBorderDropdownActive = #bdbdbd
+    public static let globalFontBodyDefault = #5f6368
+    public static let globalFontButtonPrimaryDisabled = #4a4a49
+    public static let globalFontButtonPrimaryEnabled = #ffffff
+    public static let globalFontButtonSecondaryDisabled = #4a4a49
+    public static let globalFontButtonSecondaryEnabled = #ffffff
+    public static let globalFontDropdownPlaceholderEnabled = #bdbdbd
+    public static let globalFontFamiliesLato = Lato
+    public static let globalFontFamiliesRoboto = Roboto
+    public static let globalFontInputLabel = #000000
+    public static let globalFontInputPlaceholderActive = #bdbdbd
+    public static let globalFontSize0 = 14
+    public static let globalFontSize1 = 34
+    public static let globalFontSize2 = 48
+    public static let globalFontSize3 = 58
+    public static let globalFontSize4 = 64
+    public static let globalFontWeightsLato0 = Regular
+    public static let globalFontWeightsLato3 = Bold
+    public static let globalFontWeightsRoboto1 = Regular
+    public static let globalFontWeightsRoboto2 = Bold
+    public static let globalHeadingH1 = [object Object]
+    public static let globalHeadingH2 = [object Object]
+    public static let globalHeadingH3 = [object Object]
+    public static let globalHeadingH4 = [object Object]
+    public static let globalLetterSpacing0 = -0.5
+    public static let globalLetterSpacing1 = 0
+    public static let globalLetterSpacing2 = 0%
+    public static let globalLineHeights0 = AUTO
+    public static let globalParagraphSpacing0 = 0
+    public static let globalPrimary = #e84d1b
+    public static let globalPrimaryDark = #ae1000
+    public static let globalPrimaryLight = #ff7f49
+    public static let globalSecondary = #4e55a2
+    public static let globalSecondaryDark = #192d73
+    public static let globalSecondaryLight = #7f81d4
+    public static let globalTextCaseNone = none
+    public static let globalTextCaseUppercase = uppercase
+    public static let globalTextDecorationNone = none
 }

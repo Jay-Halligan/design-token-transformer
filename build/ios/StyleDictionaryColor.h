@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 12:00:50 GMT
+// Generated on Wed, 05 Jan 2022 12:36:14 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -47,7 +47,27 @@ ColorFontPageFooter,
 ColorFontPolicyinformationBox,
 ColorBorderDropdownActive,
 ColorPanelDivider,
-ColorPanelBodyHeading
+ColorPanelBodyHeading,
+GlobalBlack,
+GlobalPrimary,
+GlobalSecondary,
+GlobalPrimaryLight,
+GlobalPrimaryDark,
+GlobalSecondaryDark,
+GlobalSecondaryLight,
+GlobalBackgroundButtonSecondaryEnabled,
+GlobalBackgroundButtonSecondaryDisabled,
+GlobalBackgroundButtonPrimaryEnabled,
+GlobalBackgroundButtonPrimaryDisabled,
+GlobalFontButtonPrimaryEnabled,
+GlobalFontButtonPrimaryDisabled,
+GlobalFontButtonSecondaryEnabled,
+GlobalFontButtonSecondaryDisabled,
+GlobalFontDropdownPlaceholderEnabled,
+GlobalFontInputLabel,
+GlobalFontInputPlaceholderActive,
+GlobalFontBodyDefault,
+GlobalBorderDropdownActive
 };
 
 @interface StyleDictionaryColor : NSObject
