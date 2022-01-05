@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 12:36:14 GMT
+// Generated on Wed, 05 Jan 2022 13:34:11 GMT
 
 
 import UIKit
@@ -35,16 +35,11 @@ public enum StyleDictionarySize {
     public static let headingH4LetterSpacing = "0"
     public static let headingH4ParagraphIndent = "0"
     public static let headingH4ParagraphSpacing = "0"
-    public static let panelBodyFontSize = "16"
-    public static let panelBodyFontWeight = "400"
     public static let panelBodyHeadingFontSize = "14"
     public static let panelBodyHeadingFontWeight = "400"
     public static let panelBodyHeadingLetterSpacing = "0"
     public static let panelBodyHeadingParagraphIndent = "0"
     public static let panelBodyHeadingParagraphSpacing = "0"
-    public static let panelBodyLetterSpacing = "0"
-    public static let panelBodyParagraphIndent = "0"
-    public static let panelBodyParagraphSpacing = "0"
     public static let panelFooterLinkFontSize = "14"
     public static let panelFooterLinkFontWeight = "400"
     public static let panelFooterLinkLetterSpacing = "0"

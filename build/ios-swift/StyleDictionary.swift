@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 12:36:14 GMT
+// Generated on Wed, 05 Jan 2022 13:34:11 GMT
 
 
 import UIKit
@@ -108,13 +108,7 @@ public class StyleDictionary {
     public static let fontHeadingH4ParagraphSpacing = "0"
     public static let fontHeadingH4TextCase = "none"
     public static let fontHeadingH4TextDecoration = "none"
-    public static let fontPanelBodyFontFamily = "Roboto"
-    public static let fontPanelBodyFontSize = "16"
-    public static let fontPanelBodyFontStretch = "normal"
-    public static let fontPanelBodyFontStyle = "normal"
-    public static let fontPanelBodyFontStyleOld = "Regular"
-    public static let fontPanelBodyFontWeight = "400"
-    public static let fontPanelBodyHeadingFontFamily = "Roboto"
+    public static let fontPanelBodyHeadingFontFamily = "Arial"
     public static let fontPanelBodyHeadingFontSize = "14"
     public static let fontPanelBodyHeadingFontStretch = "normal"
     public static let fontPanelBodyHeadingFontStyle = "normal"
@@ -126,12 +120,6 @@ public class StyleDictionary {
     public static let fontPanelBodyHeadingParagraphSpacing = "0"
     public static let fontPanelBodyHeadingTextCase = "none"
     public static let fontPanelBodyHeadingTextDecoration = "none"
-    public static let fontPanelBodyLetterSpacing = "0"
-    public static let fontPanelBodyLineHeight = "normal"
-    public static let fontPanelBodyParagraphIndent = "0"
-    public static let fontPanelBodyParagraphSpacing = "0"
-    public static let fontPanelBodyTextCase = "none"
-    public static let fontPanelBodyTextDecoration = "none"
     public static let fontPanelFooterLinkFontFamily = "Roboto"
     public static let fontPanelFooterLinkFontSize = "14"
     public static let fontPanelFooterLinkFontStretch = "normal"
