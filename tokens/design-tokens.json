@@ -1,0 +1,277 @@
+{
+  "global": {
+    "black": {
+      "value": "#010101",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#e84d1b",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#4e55a2",
+      "type": "color"
+    },
+    "primary-light": {
+      "value": "#ff7f49",
+      "type": "color"
+    },
+    "primary-dark": {
+      "value": "#ae1000",
+      "type": "color"
+    },
+    "secondary-dark": {
+      "value": "#192d73",
+      "type": "color"
+    },
+    "secondary-light": {
+      "value": "#7f81d4",
+      "type": "color"
+    },
+    "background": {
+      "button": {
+        "secondary": {
+          "enabled": {
+            "value": "#4e55a2",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#bdbdbd",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "enabled": {
+            "value": "#e84d1b",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#bdbdbd",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "font": {
+      "button": {
+        "primary": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#4a4a49",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "enabled": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#4a4a49",
+            "type": "color"
+          }
+        }
+      },
+      "dropdown": {
+        "placeholder": {
+          "enabled": {
+            "value": "#bdbdbd",
+            "type": "color"
+          }
+        }
+      },
+      "input": {
+        "label": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "placeholder": {
+          "active": {
+            "value": "#bdbdbd",
+            "type": "color"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "value": "#5f6368",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "dropdown": {
+        "active": {
+          "value": "#bdbdbd",
+          "type": "color"
+        }
+      }
+    },
+    "fontFamilies": {
+      "lato": {
+        "value": "Lato",
+        "type": "fontFamilies"
+      },
+      "roboto": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "AUTO",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "lato-0": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "roboto-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "roboto-2": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "lato-3": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "34",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "58",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "64",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "-0.5",
+        "type": "letterSpacing"
+      },
+      "1": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "2": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "heading": {
+      "h1": {
+        "value": {
+          "fontFamily": "$fontFamilies.lato",
+          "fontWeight": "$fontWeights.lato-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.4",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "h3": {
+        "value": {
+          "fontFamily": "$fontFamilies.roboto",
+          "fontWeight": "$fontWeights.roboto-1",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.1",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "h2": {
+        "value": {
+          "fontFamily": "$fontFamilies.roboto",
+          "fontWeight": "$fontWeights.roboto-2",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.3",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.uppercase",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "h4": {
+        "value": {
+          "fontFamily": "$fontFamilies.lato",
+          "fontWeight": "$fontWeights.lato-3",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.1",
+          "letterSpacing": "$letterSpacing.1",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
+    },
+    "body": {
+      "paragraph": {
+        "medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.roboto",
+            "fontWeight": "$fontWeights.roboto-1",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    }
+  }
+}
