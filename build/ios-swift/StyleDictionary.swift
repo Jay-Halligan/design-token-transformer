@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 10:36:10 GMT
+// Generated on Wed, 05 Jan 2022 10:49:34 GMT
 
 
 import UIKit
@@ -13,7 +13,7 @@ public class StyleDictionary {
     public static let colorBackgroundButtonPrimaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let colorBackgroundButtonPrimaryEnabled = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let colorBackgroundButtonSecondaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
-    public static let colorBackgroundButtonSecondaryEnabled = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
+    public static let colorBackgroundButtonSecondaryEnabled = UIColor(red: 0.929, green: 0.086, blue: 0.086, alpha: 1)
     public static let colorBackgroundNavbarButton = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
     public static let colorBackgroundNavbarSelecteditem = UIColor(red: 0.773, green: 0.773, blue: 0.773, alpha: 1)
     public static let colorBackgroundPageFooter = UIColor(red: 0.200, green: 0.200, blue: 0.200, alpha: 1)
