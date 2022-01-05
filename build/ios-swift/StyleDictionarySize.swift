@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 13:34:11 GMT
+// Generated on Wed, 05 Jan 2022 14:49:25 GMT
 
 
 import UIKit
@@ -35,17 +35,22 @@ public enum StyleDictionarySize {
     public static let headingH4LetterSpacing = "0"
     public static let headingH4ParagraphIndent = "0"
     public static let headingH4ParagraphSpacing = "0"
-    public static let panelBodyHeadingFontSize = "14"
-    public static let panelBodyHeadingFontWeight = "400"
-    public static let panelBodyHeadingLetterSpacing = "0"
-    public static let panelBodyHeadingParagraphIndent = "0"
-    public static let panelBodyHeadingParagraphSpacing = "0"
+    public static let panelBodyBoldFontSize = "14"
+    public static let panelBodyBoldFontWeight = "700"
+    public static let panelBodyBoldLetterSpacing = "0"
+    public static let panelBodyBoldParagraphIndent = "0"
+    public static let panelBodyBoldParagraphSpacing = "0"
+    public static let panelBodyRegularFontSize = "14"
+    public static let panelBodyRegularFontWeight = "400"
+    public static let panelBodyRegularLetterSpacing = "0"
+    public static let panelBodyRegularParagraphIndent = "0"
+    public static let panelBodyRegularParagraphSpacing = "0"
     public static let panelFooterLinkFontSize = "14"
     public static let panelFooterLinkFontWeight = "400"
     public static let panelFooterLinkLetterSpacing = "0"
     public static let panelFooterLinkParagraphIndent = "0"
     public static let panelFooterLinkParagraphSpacing = "0"
-    public static let panelHeaderTitleFontSize = "52"
+    public static let panelHeaderTitleFontSize = "36"
     public static let panelHeaderTitleFontWeight = "400"
     public static let panelHeaderTitleLetterSpacing = "-0.5"
     public static let panelHeaderTitleParagraphIndent = "0"

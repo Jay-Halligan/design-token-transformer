@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 13:34:11 GMT
+// Generated on Wed, 05 Jan 2022 14:49:25 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -39,11 +39,16 @@ extern float const FontPanelHeaderTitleFontWeight;
 extern float const FontPanelHeaderTitleLetterSpacing;
 extern float const FontPanelHeaderTitleParagraphIndent;
 extern float const FontPanelHeaderTitleParagraphSpacing;
-extern float const FontPanelBodyHeadingFontSize;
-extern float const FontPanelBodyHeadingFontWeight;
-extern float const FontPanelBodyHeadingLetterSpacing;
-extern float const FontPanelBodyHeadingParagraphIndent;
-extern float const FontPanelBodyHeadingParagraphSpacing;
+extern float const FontPanelBodyRegularFontSize;
+extern float const FontPanelBodyRegularFontWeight;
+extern float const FontPanelBodyRegularLetterSpacing;
+extern float const FontPanelBodyRegularParagraphIndent;
+extern float const FontPanelBodyRegularParagraphSpacing;
+extern float const FontPanelBodyBoldFontSize;
+extern float const FontPanelBodyBoldFontWeight;
+extern float const FontPanelBodyBoldLetterSpacing;
+extern float const FontPanelBodyBoldParagraphIndent;
+extern float const FontPanelBodyBoldParagraphSpacing;
 extern float const FontPanelFooterLinkFontSize;
 extern float const FontPanelFooterLinkFontWeight;
 extern float const FontPanelFooterLinkLetterSpacing;
