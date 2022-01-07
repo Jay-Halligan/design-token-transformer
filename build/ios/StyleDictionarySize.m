@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Jan 2022 15:34:02 GMT
+// Generated on Fri, 07 Jan 2022 15:36:44 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -80,28 +80,28 @@ float const FontPanelHeadingLargeFontWeight = @"300";
 float const FontPanelHeadingLargeLetterSpacing = @"0";
 float const FontPanelHeadingLargeParagraphIndent = @"0";
 float const FontPanelHeadingLargeParagraphSpacing = @"0";
+float const FontButtonPrimaryEnabledMediumFontSize = @"20";
+float const FontButtonPrimaryEnabledMediumFontWeight = @"400";
+float const FontButtonPrimaryEnabledMediumLetterSpacing = @"0";
+float const FontButtonPrimaryEnabledMediumParagraphIndent = @"0";
+float const FontButtonPrimaryEnabledMediumParagraphSpacing = @"0";
+float const FontButtonPrimaryEnabledLargeFontSize = @"30";
+float const FontButtonPrimaryEnabledLargeFontWeight = @"400";
+float const FontButtonPrimaryEnabledLargeLetterSpacing = @"0";
+float const FontButtonPrimaryEnabledLargeParagraphIndent = @"0";
+float const FontButtonPrimaryEnabledLargeParagraphSpacing = @"0";
+float const FontButtonPrimaryDisabledMediumFontSize = @"18";
+float const FontButtonPrimaryDisabledMediumFontWeight = @"400";
+float const FontButtonPrimaryDisabledMediumLetterSpacing = @"0";
+float const FontButtonPrimaryDisabledMediumParagraphIndent = @"0";
+float const FontButtonPrimaryDisabledMediumParagraphSpacing = @"0";
+float const FontButtonPrimaryDisabledLargeFontSize = @"30";
+float const FontButtonPrimaryDisabledLargeFontWeight = @"400";
+float const FontButtonPrimaryDisabledLargeLetterSpacing = @"0";
+float const FontButtonPrimaryDisabledLargeParagraphIndent = @"0";
+float const FontButtonPrimaryDisabledLargeParagraphSpacing = @"0";
 float const FontPolicyinformationMediumFontSize = @"26";
 float const FontPolicyinformationMediumFontWeight = @"700";
 float const FontPolicyinformationMediumLetterSpacing = @"0";
 float const FontPolicyinformationMediumParagraphIndent = @"0";
 float const FontPolicyinformationMediumParagraphSpacing = @"0";
-float const FontFontButtonPrimaryEnabledMediumFontSize = @"20";
-float const FontFontButtonPrimaryEnabledMediumFontWeight = @"400";
-float const FontFontButtonPrimaryEnabledMediumLetterSpacing = @"0";
-float const FontFontButtonPrimaryEnabledMediumParagraphIndent = @"0";
-float const FontFontButtonPrimaryEnabledMediumParagraphSpacing = @"0";
-float const FontFontButtonPrimaryEnabledLargeFontSize = @"30";
-float const FontFontButtonPrimaryEnabledLargeFontWeight = @"400";
-float const FontFontButtonPrimaryEnabledLargeLetterSpacing = @"0";
-float const FontFontButtonPrimaryEnabledLargeParagraphIndent = @"0";
-float const FontFontButtonPrimaryEnabledLargeParagraphSpacing = @"0";
-float const FontFontButtonPrimaryDisabledMediumFontSize = @"18";
-float const FontFontButtonPrimaryDisabledMediumFontWeight = @"400";
-float const FontFontButtonPrimaryDisabledMediumLetterSpacing = @"0";
-float const FontFontButtonPrimaryDisabledMediumParagraphIndent = @"0";
-float const FontFontButtonPrimaryDisabledMediumParagraphSpacing = @"0";
-float const FontFontButtonPrimaryDisabledLargeFontSize = @"30";
-float const FontFontButtonPrimaryDisabledLargeFontWeight = @"400";
-float const FontFontButtonPrimaryDisabledLargeLetterSpacing = @"0";
-float const FontFontButtonPrimaryDisabledLargeParagraphIndent = @"0";
-float const FontFontButtonPrimaryDisabledLargeParagraphSpacing = @"0";

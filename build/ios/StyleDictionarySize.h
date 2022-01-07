@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Jan 2022 15:34:02 GMT
+// Generated on Fri, 07 Jan 2022 15:36:44 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -79,28 +79,28 @@ extern float const FontPanelHeadingLargeFontWeight;
 extern float const FontPanelHeadingLargeLetterSpacing;
 extern float const FontPanelHeadingLargeParagraphIndent;
 extern float const FontPanelHeadingLargeParagraphSpacing;
+extern float const FontButtonPrimaryEnabledMediumFontSize;
+extern float const FontButtonPrimaryEnabledMediumFontWeight;
+extern float const FontButtonPrimaryEnabledMediumLetterSpacing;
+extern float const FontButtonPrimaryEnabledMediumParagraphIndent;
+extern float const FontButtonPrimaryEnabledMediumParagraphSpacing;
+extern float const FontButtonPrimaryEnabledLargeFontSize;
+extern float const FontButtonPrimaryEnabledLargeFontWeight;
+extern float const FontButtonPrimaryEnabledLargeLetterSpacing;
+extern float const FontButtonPrimaryEnabledLargeParagraphIndent;
+extern float const FontButtonPrimaryEnabledLargeParagraphSpacing;
+extern float const FontButtonPrimaryDisabledMediumFontSize;
+extern float const FontButtonPrimaryDisabledMediumFontWeight;
+extern float const FontButtonPrimaryDisabledMediumLetterSpacing;
+extern float const FontButtonPrimaryDisabledMediumParagraphIndent;
+extern float const FontButtonPrimaryDisabledMediumParagraphSpacing;
+extern float const FontButtonPrimaryDisabledLargeFontSize;
+extern float const FontButtonPrimaryDisabledLargeFontWeight;
+extern float const FontButtonPrimaryDisabledLargeLetterSpacing;
+extern float const FontButtonPrimaryDisabledLargeParagraphIndent;
+extern float const FontButtonPrimaryDisabledLargeParagraphSpacing;
 extern float const FontPolicyinformationMediumFontSize;
 extern float const FontPolicyinformationMediumFontWeight;
 extern float const FontPolicyinformationMediumLetterSpacing;
 extern float const FontPolicyinformationMediumParagraphIndent;
 extern float const FontPolicyinformationMediumParagraphSpacing;
-extern float const FontFontButtonPrimaryEnabledMediumFontSize;
-extern float const FontFontButtonPrimaryEnabledMediumFontWeight;
-extern float const FontFontButtonPrimaryEnabledMediumLetterSpacing;
-extern float const FontFontButtonPrimaryEnabledMediumParagraphIndent;
-extern float const FontFontButtonPrimaryEnabledMediumParagraphSpacing;
-extern float const FontFontButtonPrimaryEnabledLargeFontSize;
-extern float const FontFontButtonPrimaryEnabledLargeFontWeight;
-extern float const FontFontButtonPrimaryEnabledLargeLetterSpacing;
-extern float const FontFontButtonPrimaryEnabledLargeParagraphIndent;
-extern float const FontFontButtonPrimaryEnabledLargeParagraphSpacing;
-extern float const FontFontButtonPrimaryDisabledMediumFontSize;
-extern float const FontFontButtonPrimaryDisabledMediumFontWeight;
-extern float const FontFontButtonPrimaryDisabledMediumLetterSpacing;
-extern float const FontFontButtonPrimaryDisabledMediumParagraphIndent;
-extern float const FontFontButtonPrimaryDisabledMediumParagraphSpacing;
-extern float const FontFontButtonPrimaryDisabledLargeFontSize;
-extern float const FontFontButtonPrimaryDisabledLargeFontWeight;
-extern float const FontFontButtonPrimaryDisabledLargeLetterSpacing;
-extern float const FontFontButtonPrimaryDisabledLargeParagraphIndent;
-extern float const FontFontButtonPrimaryDisabledLargeParagraphSpacing;
