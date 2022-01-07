@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Jan 2022 11:31:37 GMT
+// Generated on Fri, 07 Jan 2022 15:34:02 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -36,6 +36,7 @@ ColorFontDropdownPlaceholderEnabled,
 ColorFontInputLabel,
 ColorFontInputPlaceholderActive,
 ColorFontBodyDefault,
+ColorFontBodyParagraph,
 ColorFontHeadingH2,
 ColorFontHeadingDefault,
 ColorFontNavbarText,

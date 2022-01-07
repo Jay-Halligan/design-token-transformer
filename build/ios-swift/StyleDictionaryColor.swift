@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Jan 2022 11:31:37 GMT
+// Generated on Fri, 07 Jan 2022 15:34:02 GMT
 
 
 import UIKit
@@ -30,6 +30,7 @@ public enum StyleDictionaryColor {
     public static let borderDropdownActive = #bdbdbd
     public static let fontBodyDefault = UIColor(red: 0.373, green: 0.388, blue: 0.408, alpha: 1)
     public static let fontBodyDefault = #5f6368
+    public static let fontBodyParagraph = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let fontButtonPrimaryDisabled = UIColor(red: 0.290, green: 0.290, blue: 0.286, alpha: 1)
     public static let fontButtonPrimaryDisabled = #4a4a49
     public static let fontButtonPrimaryEnabled = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -55,7 +56,7 @@ public enum StyleDictionaryColor {
     public static let fontPolicyinformationBox = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let panelBodyHeading = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let panelDivider = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
-    public static let primary = UIColor(red: 0.208, green: 0.059, blue: 0.953, alpha: 1)
+    public static let primary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let primary = #e84d1b
     public static let primaryDark = UIColor(red: 0.682, green: 0.063, blue: 0.000, alpha: 1)
     public static let primaryDark = #ae1000
