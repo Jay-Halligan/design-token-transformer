@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 05 Jan 2022 14:49:25 GMT
+// Generated on Fri, 07 Jan 2022 11:29:25 GMT
 
 
 import UIKit
@@ -41,7 +41,7 @@ public class StyleDictionary {
     public static let colorFontPolicyinformationBox = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorPanelBodyHeading = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorPanelDivider = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
-    public static let colorPrimary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
+    public static let colorPrimary = UIColor(red: 0.208, green: 0.059, blue: 0.953, alpha: 1)
     public static let colorPrimaryDark = UIColor(red: 0.682, green: 0.063, blue: 0.000, alpha: 1)
     public static let colorPrimaryLight = UIColor(red: 1.000, green: 0.498, blue: 0.286, alpha: 1)
     public static let colorSecondary = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
