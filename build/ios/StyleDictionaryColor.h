@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 08 Jan 2022 16:41:17 GMT
+// Generated on Tue, 11 Jan 2022 08:48:41 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -27,7 +27,10 @@ ColorBackgroundTopBannerPrimary,
 ColorBackgroundTopNavbarPrimary,
 ColorBackgroundNavbarSelecteditem,
 ColorBackgroundNavbarButton,
+ColorBackgroundNavbarPrimary,
 ColorBackgroundPolicyinformationBox,
+ColorBackgroundLinksbarPrimary,
+ColorBackgroundPanelHeadingPrimary,
 ColorFontButtonPrimaryEnabled,
 ColorFontButtonPrimaryDisabled,
 ColorFontButtonSecondaryEnabled,
