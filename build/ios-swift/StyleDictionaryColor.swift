@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Jan 2022 08:48:41 GMT
+// Generated on Tue, 11 Jan 2022 16:34:23 GMT
 
 
 import UIKit
@@ -12,7 +12,7 @@ import UIKit
 public enum StyleDictionaryColor {
     public static let backgroundButtonPrimaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let backgroundButtonPrimaryDisabled = #bdbdbd
-    public static let backgroundButtonPrimaryEnabled = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
+    public static let backgroundButtonPrimaryEnabled = UIColor(red: 0.420, green: 0.137, blue: 0.047, alpha: 1)
     public static let backgroundButtonPrimaryEnabled = #e84d1b
     public static let backgroundButtonSecondaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let backgroundButtonSecondaryDisabled = #bdbdbd

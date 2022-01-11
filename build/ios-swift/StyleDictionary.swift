@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Jan 2022 08:48:41 GMT
+// Generated on Tue, 11 Jan 2022 16:34:23 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
     public static let colorBackgroundButtonPrimaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
-    public static let colorBackgroundButtonPrimaryEnabled = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
+    public static let colorBackgroundButtonPrimaryEnabled = UIColor(red: 0.420, green: 0.137, blue: 0.047, alpha: 1)
     public static let colorBackgroundButtonSecondaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let colorBackgroundButtonSecondaryEnabled = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
     public static let colorBackgroundLinksbarPrimary = UIColor(red: 1.000, green: 0.498, blue: 0.286, alpha: 1)
