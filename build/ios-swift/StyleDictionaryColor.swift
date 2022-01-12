@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Jan 2022 16:34:23 GMT
+// Generated on Wed, 12 Jan 2022 11:23:11 GMT
 
 
 import UIKit
@@ -12,7 +12,7 @@ import UIKit
 public enum StyleDictionaryColor {
     public static let backgroundButtonPrimaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let backgroundButtonPrimaryDisabled = #bdbdbd
-    public static let backgroundButtonPrimaryEnabled = UIColor(red: 0.420, green: 0.137, blue: 0.047, alpha: 1)
+    public static let backgroundButtonPrimaryEnabled = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let backgroundButtonPrimaryEnabled = #e84d1b
     public static let backgroundButtonSecondaryDisabled = UIColor(red: 0.741, green: 0.741, blue: 0.741, alpha: 1)
     public static let backgroundButtonSecondaryDisabled = #bdbdbd
@@ -22,7 +22,6 @@ public enum StyleDictionaryColor {
     public static let backgroundNavbarButton = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
     public static let backgroundNavbarPrimary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
     public static let backgroundNavbarSelecteditem = UIColor(red: 0.773, green: 0.773, blue: 0.773, alpha: 1)
-    public static let backgroundPageFooter = UIColor(red: 0.200, green: 0.200, blue: 0.200, alpha: 1)
     public static let backgroundPanelHeadingPrimary = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let backgroundPolicyinformationBox = UIColor(red: 0.306, green: 0.333, blue: 0.635, alpha: 1)
     public static let backgroundTopBannerPrimary = UIColor(red: 0.910, green: 0.302, blue: 0.106, alpha: 1)
